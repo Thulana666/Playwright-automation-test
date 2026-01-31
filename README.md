@@ -10,7 +10,7 @@ SwiftTranslator Singlish to Sinhala conversion system using Playwright.
 The automation covers:
 - Positive Functional Test Cases (Pos_Fun_0001 to Pos_Fun_0024)
 - Negative Functional Test Cases (Neg_Fun_0001 to Neg_Fun_0010)
-- UI Test Cases (Pos_UI_0001, Neg_UI_0001)
+- UI Test Cases (Pos_UI_0001)
 
 All automated tests are based on the documented Excel test cases.
 
